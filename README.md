@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-Coming from a Physics, Optics and Photonics background with skills in Python and Analysis, 
 I'm currently upskilling my data, machine learning and programming skills.
 I am putting together a data analytics portfolio and eventually a data science portfolio.
 I am currently learning: SQL, Tableau, PowerBI, R, Python ML packages and Cloud tools. 
