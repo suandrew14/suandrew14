@@ -1,11 +1,18 @@
 ## Hi there 👋
 
+Coming from a Physics, Optics and Photonics background with skills in Python and Analysis, 
+I'm currently upskilling my data, machine learning and programming skills.
+I am putting together a data analytics portfolio and eventually a data science portfolio.
+I am currently learning: SQL, Tableau, PowerBI, R, Python ML packages and Cloud tools. 
+
+In the future I may add other personal projects to this github. 
+
 <!--
 **suandrew14/suandrew14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
