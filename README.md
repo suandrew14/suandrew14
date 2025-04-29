@@ -2,7 +2,8 @@
 
 I'm currently upskilling my data, machine learning and programming skills.
 I am putting together a data analytics portfolio and eventually a data science portfolio.
-I am currently learning: SQL, Tableau, PowerBI, R, Python ML packages and Cloud tools. 
+I am currently learning: SQL, Tableau, PowerBI, 
+and eventually, for Data Science: R, Python ML packages and Cloud tools. 
 
 In the future I may add other personal projects to this github. 
 
